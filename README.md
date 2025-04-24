@@ -8,7 +8,7 @@ Bienvenue dans le dépôt de mon **portfolio personnel**, développé en **HTML*
 
 Voici un aperçu visuel de la page d’accueil de mon portfolio :
 
-![Aperçu du site](appercue.png)
+![Aperçu du site](Appercu-port.png)
 
 ---
 
